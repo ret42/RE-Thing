@@ -1,4 +1,4 @@
-# List of tools for .NET Unpacker / Deobf
+# List of tools
 
 -----------------
 
