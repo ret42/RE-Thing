@@ -2,7 +2,7 @@
 
 -----------------
 
-- ## De4Dot - Deobfuscate .NET Application
+- ## De4Dot - Deobfuscate .NET Application.
   - [De4Dot Fix Anti de4dot](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/De4dot%20Fix%20Anti%20de4dot)
   - [De4Dot STM](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/De4dot%20STM)
   - [De4Dot LastByte](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/De4dot%20lastbyte)
@@ -38,21 +38,24 @@
   - [De4Dot DFoX](https://github.com/lol-49/Cracking-Thing/blob/main/De4Dot/de4dot_x86_x64_v3.1.41592.3405_Compiled_at_02_May_2020_By_DFoX.rar)
 
 - ## DnSpy
-  - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
+  - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
 
 - ## dotPeek
-  - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser
+  - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser.
 
 - ## NET Reactor
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Controlflow Cleaner .NET REACTOR 6.7
   - [.NET Reactor 6.7 String](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - String Cleaner .NET Reactor 6.7 (Use the Cflow before)
 
 - ## Process Hacker
-  - [Process Hacker](https://processhacker.sourceforge.io/)
+  - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
 - ## Simply Assembly Explorer
-  - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name
+  - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
 
 - ## Vapor
-  - [Devapor](https://github.com/miso-xyz/DeVapor)
+  - [Devapor](https://github.com/miso-xyz/DeVapor) - Deobfuscator for Vapor.
 
+- ## x64dbg
+  - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
+  - [ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger.
