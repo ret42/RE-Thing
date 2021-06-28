@@ -43,9 +43,14 @@
 - ## dotPeek
   - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser.
 
+- ## Dumper
+  - [ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper.
+  - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
+
 - ## NET Reactor
-  - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Controlflow Cleaner .NET REACTOR 6.7
-  - [.NET Reactor 6.7 String](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - String Cleaner .NET Reactor 6.7 (Use the Cflow before)
+  - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings
+  - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0 
+  - [.NET Reactor 6.7 String](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - Simple String Cleaner for .NET Reactor 6.7.0.0 (Use the Cflow before if there is Cflow Protection)
 
 - ## OrangeHeap
   - [OrangeHeap Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap.
