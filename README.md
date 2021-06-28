@@ -47,6 +47,9 @@
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Controlflow Cleaner .NET REACTOR 6.7
   - [.NET Reactor 6.7 String](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - String Cleaner .NET Reactor 6.7 (Use the Cflow before)
 
+- ## OrangeHeap
+  - [OrangeHeap Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap.
+
 - ## Process Hacker
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
