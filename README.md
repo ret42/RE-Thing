@@ -2,6 +2,9 @@
 
 -----------------
 
+- ## DetectItEasy
+  - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+
 - ## De4Dot - Deobfuscate .NET Application.
   - [De4Dot Fix Anti de4dot](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/De4dot%20Fix%20Anti%20de4dot)
   - [De4Dot STM](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/De4dot%20STM)
@@ -47,6 +50,10 @@
   - [ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper.
   - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
 
+- ## GDB
+  - [GDB](https://www.gnu.org/software/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on `inside` another program while it executes -- or what another program was doing at the moment it crashed. 
+  - [Peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
+
 - ## ghidra
   - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework 
 
@@ -60,6 +67,9 @@
 
 - ## Process Hacker
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+
+- ## r2 or radare2
+  - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 
 - ## Simply Assembly Explorer
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
