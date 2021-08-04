@@ -2,6 +2,9 @@
 
 -----------------
 
+- ## cutter
+  - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+
 - ## DetectItEasy
   - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
@@ -57,6 +60,9 @@
 - ## ghidra
   - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework 
 
+- ## IDA
+  - [IDA](https://hex-rays.com/) - Powerful disassembler and a versatile debugger, and more
+
 - ## NET Reactor
   - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0 
@@ -70,6 +76,9 @@
 
 - ## r2 or radare2
   - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+
+- ## Relyze
+  - [Relyze](https://www.relyze.com/) - Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software
 
 - ## Simply Assembly Explorer
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
