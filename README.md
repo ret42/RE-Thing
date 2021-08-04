@@ -63,6 +63,10 @@
 - ## IDA
   - [IDA](https://hex-rays.com/) - Powerful disassembler and a versatile debugger, and more
 
+- ## KoiVM
+  - [OldRod](https://github.com/Washi1337/OldRod) - An automated KoiVM devirtualisation utility
+  - [Rhydon](https://github.com/TobitoFatitoRE/Rhydon) - Rhydon
+
 - ## NET Reactor
   - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0 
