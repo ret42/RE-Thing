@@ -47,6 +47,9 @@
   - [ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper.
   - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
 
+- ## ghidra
+  - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework 
+
 - ## NET Reactor
   - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0 
