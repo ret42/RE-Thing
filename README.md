@@ -93,6 +93,7 @@
 - ## WASM
   - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit 
   - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file
+  - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`
 
 - ## x64dbg
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
