@@ -90,6 +90,10 @@
 - ## Vapor
   - [Devapor](https://github.com/miso-xyz/DeVapor) - Deobfuscator for Vapor.
 
+- ## WASM
+  - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit 
+  - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file
+
 - ## x64dbg
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
   - [ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger.
