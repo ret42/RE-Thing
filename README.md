@@ -5,6 +5,9 @@
 - ## AsmResolver
   - [AsmResolver](https://github.com/Washi1337/AsmResolver) - A library for editing PE files with full .NET metadata support.
 
+- ## CheatEngine
+  - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
+
 - ## cutter
   - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin.
 
@@ -110,6 +113,7 @@
   - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
   - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file.
   - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
+  - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine 
 
 - ## x64dbg
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
