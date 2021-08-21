@@ -53,7 +53,7 @@
   - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
   - [StringAnalyzer](https://github.com/AxDSan/dnSpy-StringsAnalyzer) - Plugin for DnSpy - Analyze through assemblies and display their strings. 
   - [Find password](https://www.youtube.com/watch?v=054tBXK5SaU) - Find password from bool Equals.
-  - dnSpy-ScyllaHideExtension](https://github.com/ComanGames/dnSpy-ScyllaHideExtension) - The small extension made by ComanGames to add anti-anti-debbuging support to dnSpy.
+  - [dnSpy-ScyllaHideExtension](https://github.com/ComanGames/dnSpy-ScyllaHideExtension) - The small extension made by ComanGames to add anti-anti-debbuging support to dnSpy.
 
 - ## dotPeek
   - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser.
