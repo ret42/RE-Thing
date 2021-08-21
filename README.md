@@ -114,6 +114,7 @@
   - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file.
   - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
   - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine 
+  - [wasm-cheatengine](https://github.com/vakzz/wasm-cheat-engine) - A chrome extension that vakzz while playing pwnadventure, to allow for basic searching and freezing of values.
 
 - ## x64dbg
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
