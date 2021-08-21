@@ -2,8 +2,14 @@
 
 -----------------
 
+- ## AsmResolver
+  - [AsmResolver](https://github.com/Washi1337/AsmResolver) - A library for editing PE files with full .NET metadata support.
+
 - ## cutter
-  - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+  - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin.
+
+- ## ConfuserEx
+  - [EazFixer](https://github.com/HoLLy-HaCKeR/EazFixer) - A deobfuscation tool for Eazfuscator. 
 
 - ## DetectItEasy
   - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -45,6 +51,8 @@
 
 - ## DnSpy
   - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
+  - [StringAnalyzer](https://github.com/AxDSan/dnSpy-StringsAnalyzer) - Plugin for DnSpy - Analyze through assemblies and display their strings. 
+  - [Find password](https://www.youtube.com/watch?v=054tBXK5SaU) - Find password from bool Equals.
 
 - ## dotPeek
   - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser.
@@ -55,21 +63,28 @@
 
 - ## GDB
   - [GDB](https://www.gnu.org/software/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on `inside` another program while it executes -- or what another program was doing at the moment it crashed. 
-  - [Peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
+  - [Peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB.
 
 - ## ghidra
-  - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework 
+  - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework.
 
 - ## IDA
-  - [IDA](https://hex-rays.com/) - Powerful disassembler and a versatile debugger, and more
+  - [IDA](https://hex-rays.com/) - Powerful disassembler and a versatile debugger, and more.
+
+- ## JavaResolver
+  - [JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
+
+- ## KeePass
+  - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - A tool to extract a KeePass master password from memory
 
 - ## KoiVM
-  - [OldRod](https://github.com/Washi1337/OldRod) - An automated KoiVM devirtualisation utility
-  - [Rhydon](https://github.com/TobitoFatitoRE/Rhydon) - Rhydon
+  - [OldRod](https://github.com/Washi1337/OldRod) - An automated KoiVM devirtualisation utility.
+  - [Rhydon](https://github.com/TobitoFatitoRE/Rhydon) - Rhydon.
+  - [Venturi77CallHijacker](https://github.com/AxDSan/Venturi77CallHijacker) - KoiVM,EazVM,AgileVM Patcher Por "Team Venturi77".
 
 - ## NET Reactor
-  - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings
-  - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0 
+  - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings.
+  - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0.
   - [.NET Reactor 6.7 String](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - Simple String Cleaner for .NET Reactor 6.7.0.0 (Use the Cflow before if there is Cflow Protection)
 
 - ## OrangeHeap
@@ -79,10 +94,10 @@
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
 - ## r2 or radare2
-  - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+  - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
 
 - ## Relyze
-  - [Relyze](https://www.relyze.com/) - Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software
+  - [Relyze](https://www.relyze.com/) - Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software.
 
 - ## Simply Assembly Explorer
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
@@ -91,9 +106,9 @@
   - [Devapor](https://github.com/miso-xyz/DeVapor) - Deobfuscator for Vapor.
 
 - ## WASM
-  - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit 
-  - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file
-  - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`
+  - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
+  - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file.
+  - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
 
 - ## x64dbg
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
