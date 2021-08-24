@@ -1,5 +1,5 @@
 # List of tools
-
+  - If you really needing help about building some projects, add me on discord: cayden#3407
 -----------------
 
 - ## AsmResolver
@@ -52,6 +52,9 @@
   - [De4Dot fixantide4dot mindsys](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/de4dotfixantide4dot%20mindsys)
   - [De4Dot DFoX](https://github.com/lol-49/Cracking-Thing/blob/main/De4Dot/de4dot_x86_x64_v3.1.41592.3405_Compiled_at_02_May_2020_By_DFoX.rar)
 
+- ## De4js
+  - [De4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker
+
 - ## DnSpy
   - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
   - [StringAnalyzer](https://github.com/AxDSan/dnSpy-StringsAnalyzer) - Plugin for DnSpy - Analyze through assemblies and display their strings. 
@@ -72,8 +75,14 @@
 - ## ghidra
   - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework.
 
+- ## iced
+  - [iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript.
+
 - ## IDA
   - [IDA](https://hex-rays.com/) - Powerful disassembler and a versatile debugger, and more.
+
+- ## Jadx
+  - [Jadx](https://github.com/skylot/jadx) - Dex to Java decompiler .
 
 - ## JavaResolver
   - [JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
@@ -100,11 +109,18 @@
 - ## r2 or radare2
   - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
 
+- ## ReClass
+  - [ReClass](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
+
 - ## Relyze
   - [Relyze](https://www.relyze.com/) - Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software.
 
 - ## Simply Assembly Explorer
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
+
+- ## UnLuac
+  - [Unluac](https://fr.osdn.net/projects/sfnet_unluac/releases/) - Unluac is a decompiler for Lua 5.1. It runs on Lua chunks that have been compiled with the standard Lua compiler. (Original version)
+  - [UnluacNET](https://github.com/Fireboyd78/UnluacNET) - A Lua 5.1 decompiler library written in C#. Based on the original Java version of "unluac" by tehtmi. 
 
 - ## Vapor
   - [Devapor](https://github.com/miso-xyz/DeVapor) - Deobfuscator for Vapor.
