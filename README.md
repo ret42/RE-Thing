@@ -95,6 +95,9 @@
   - [Rhydon](https://github.com/TobitoFatitoRE/Rhydon) - Rhydon.
   - [Venturi77CallHijacker](https://github.com/AxDSan/Venturi77CallHijacker) - KoiVM,EazVM,AgileVM Patcher Por "Team Venturi77".
 
+- ## mgbdis
+  - [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+
 - ## NET Reactor
   - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings.
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0.
