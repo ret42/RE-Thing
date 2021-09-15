@@ -103,6 +103,9 @@
   - [.NET Reactor 6.7 Cflow](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0.
   - [.NET Reactor 6.7 String](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - Simple String Cleaner for .NET Reactor 6.7.0.0 (Use the Cflow before if there is Cflow Protection)
 
+- ## oletools
+  - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. 
+
 - ## OrangeHeap
   - [OrangeHeap Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap.
 
