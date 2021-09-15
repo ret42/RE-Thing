@@ -1,18 +1,45 @@
 # List of tools
-  - If you really needing help about building some projects, add me on discord: cayden#3407
+  - If you really needing help about building some projects, give me your discord on my youtube channel
+  - I didn't made category so if you want to find a tool faster, then just press `CTRL + F` and type keyword<br>
+
 -----------------
+
+
+- ## Androguard
+  - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) 
+
+- ## Angr
+  - [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
+
+- ## apk2gold
+  - [apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
+
+- ## Apktool
+  - [Apktool](https://ibotpeaches.github.io/Apktool/) - A tool for reverse engineering Android apk files.
 
 - ## AsmResolver
   - [AsmResolver](https://github.com/Washi1337/AsmResolver) - A library for editing PE files with full .NET metadata support.
 
+- ## Barf
+  - [Barf](https://github.com/programa-stic/barf-project) - BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework 
+
+- ## Binary Ninja
+  - [Binary Ninja](https://binary.ninja/) - Binary Analysis Framework
+
+- ## Binwalk
+  - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool (Check out if files are embedded/appended)
+
 - ## CheatEngine
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
 
-- ## cutter
-  - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin.
-
 - ## ConfuserEx
   - [EazFixer](https://github.com/HoLLy-HaCKeR/EazFixer) - A deobfuscation tool for Eazfuscator. 
+
+- ## CTF Import
+  - [CTF Import](https://github.com/sciencemanx/ctf_import) - Run basic functions from stripped binaries cross platform 
+
+- ## cutter
+  - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin.
 
 - ## DetectItEasy
   - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -55,6 +82,9 @@
 - ## De4js
   - [De4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker
 
+- ## dnlib
+  - A cool library in C# for deobf
+
 - ## DnSpy
   - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
   - [StringAnalyzer](https://github.com/AxDSan/dnSpy-StringsAnalyzer) - Plugin for DnSpy - Analyze through assemblies and display their strings. 
@@ -68,9 +98,21 @@
   - [ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper.
   - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
 
+- ## Frida
+  - [Frida](https://github.com/frida/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+
 - ## GDB
   - [GDB](https://www.gnu.org/software/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on `inside` another program while it executes -- or what another program was doing at the moment it crashed. 
   - [Peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB.
+
+- ## HexEdit
+  - [HexEdit](https://hexed.it/) - A powerful online hex editor running in your web browser. Analyse and edit binary files everywhere.
+
+- ## Hexinator
+  - [Hexinator](https://hexinator.com/) - Hex editor and lot of more features.
+
+- ## HxD
+  - [HxD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
 - ## ghidra
   - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework.
@@ -123,6 +165,13 @@
 
 - ## Simply Assembly Explorer
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
+
+- ## Sttringcheese / strings
+  - [Stringcheese](https://github.com/MathisHammel/stringcheese) - StringCheese is a CTF tool to solve easy challenges automatically in many cases where a strings | grep is just not enough
+  - strings
+
+- ## Uncompyle
+  - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Python decompiler (.pyc file, python2.7)
 
 - ## UnLuac
   - [Unluac](https://fr.osdn.net/projects/sfnet_unluac/releases/) - Unluac is a decompiler for Lua 5.1. It runs on Lua chunks that have been compiled with the standard Lua compiler. (Original version)
