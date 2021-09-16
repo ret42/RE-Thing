@@ -11,6 +11,9 @@
 - ## Angr
   - [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 
+- ## APIMonitor
+  - [APIMonitor](http://www.rohitab.com/apimonitor) - API Monitor is a free software that lets you monitor and control API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
+
 - ## apk2gold
   - [apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
 
@@ -28,6 +31,9 @@
 
 - ## Binwalk
   - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool (Check out if files are embedded/appended)
+
+- ## CFF Explorer
+  - [CFF Explorer](https://ntcore.com/?page_id=388) - a freeware suite of tools including a PE editor.
 
 - ## CheatEngine
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
@@ -151,6 +157,9 @@
 - ## OrangeHeap
   - [OrangeHeap Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap.
 
+- ## Peepdf
+  - [Peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents 
+
 - ## Process Hacker
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
@@ -186,6 +195,9 @@
   - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
   - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine 
   - [wasm-cheatengine](https://github.com/vakzz/wasm-cheat-engine) - A chrome extension that vakzz while playing pwnadventure, to allow for basic searching and freezing of values.
+
+- ## Wireshark
+  - [Wireshark](https://www.wireshark.org/) - See what applications send and receive. Network Sniffer.
 
 - ## x64dbg
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
