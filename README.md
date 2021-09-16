@@ -17,7 +17,7 @@
   - [APIMonitor](http://www.rohitab.com/apimonitor) - API Monitor is a free software that lets you monitor and control API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
   - [Barf](https://github.com/programa-stic/barf-project) - BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework.
   - [Binary Ninja](https://binary.ninja/) - Binary Analysis Framework.
-  - [CTF Import](https://github.com/sciencemanx/ctf_import)
+  - [CTF Import](https://github.com/sciencemanx/ctf_import) - Run basic functions from stripped binaries cross platform.
   - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin.
   - [Frida](https://github.com/frida/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
   - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework.
