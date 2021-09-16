@@ -11,7 +11,8 @@
   - [apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
   - [Apktool](https://ibotpeaches.github.io/Apktool/) - A tool for reverse engineering Android apk files.
 
-- #### Binary Analysis, Assembly explorer etc..
+
+- ### Binary Analysis, Assembly explorer etc..
   - [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
   - [APIMonitor](http://www.rohitab.com/apimonitor) - API Monitor is a free software that lets you monitor and control API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
   - [Barf](https://github.com/programa-stic/barf-project) - BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework.
@@ -26,14 +27,17 @@
   - [Relyze](https://www.relyze.com/) - Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software.
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
 
-- #### Binwalk
+
+- ### Binwalk
   - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool (Check out if files are embedded/appended)
 
-- #### Debugger
+
+- ### Debugger
   - [x64-x32dbg](https://x64dbg.com/#start) - An open-source x64/x32 debugger for windows.
   - [ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger for x64-x32dbg.
   - [GDB](https://www.gnu.org/software/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on `inside` another program while it executes -- or what another program was doing at the moment it crashed. 
   - [Peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB.
+
 
 - ### Deobfuscator / Decompiler / Unpacker etc...
   - [De4Dot Fix Anti de4dot](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/De4dot%20Fix%20Anti%20de4dot) - .NET application
@@ -87,46 +91,55 @@
 
   - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Python decompiler (.pyc file, python2.7)
 
-- #### Detecter
+- ### Detecter
   - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
-- #### Dumper
+
+- ### Dumper
   - [ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper.
   - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
+
 
 - #### Games
   - [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 
-- #### Hex Editor / Viewer
+
+- ### Hex Editor / Viewer
   - [Hexinator](https://hexinator.com/) - Hex editor and lot of more features.
   - [HexEdit](https://hexed.it/) - A powerful online hex editor running in your web browser. Analyse and edit binary files everywhere.
   - [HxD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
-- #### Java
+
+- ### Java
   - [Jadx](https://github.com/skylot/jadx) - Dex to Java decompiler.
   - [JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
 
-- #### Memory Hacking
+
+- ### Memory Hacking
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
   - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax)
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
   - [ReClass](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
 
-- #### Network
+
+- ### Network
   - [Wireshark](https://www.wireshark.org/) - See what applications send and receive. Network Sniffer.
 
-- #### .NET Tools
+
+- ### .NET Tools
   - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
   - [dnSpy-ScyllaHideExtension](https://github.com/ComanGames/dnSpy-ScyllaHideExtension) - The small extension made by ComanGames to add anti-anti-debbuging support to dnSpy.
   - [Find password](https://www.youtube.com/watch?v=054tBXK5SaU) - Find password from bool Equals with dnSpy.
   - [StringAnalyzer](https://github.com/AxDSan/dnSpy-StringsAnalyzer) - Plugin for DnSpy - Analyze through assemblies and display their strings.
   - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser.
 
-- #### PE Editer
+
+- ### PE Editer
   - [AsmResolver](https://github.com/Washi1337/AsmResolver) - A library for editing PE files with full .NET metadata support.
   - [CFF Explorer](https://ntcore.com/?page_id=388) - a freeware suite of tools including a PE editor.
 
-- #### PDF, MS, etc..
+
+- ### PDF, MS, etc..
   - [Peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents 
   - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. 
 
