@@ -117,7 +117,7 @@
 
 - ### Memory Hacking
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
-  - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax)
+  - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - A tool to extract a KeePass master password from memory.
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
   - [ReClass](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
 
