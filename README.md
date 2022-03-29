@@ -91,6 +91,8 @@
 
   - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Python decompiler (.pyc file, python2.7)
 
+  - UPX: for unpack with UPX type `upx -d YOURFILE`
+
 - ### Detecter
   - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
@@ -100,7 +102,7 @@
   - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
 
 
-- #### Games
+- ### Games
   - [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 
 
