@@ -83,15 +83,12 @@
   - [Venturi77CallHijacker](https://github.com/AxDSan/Venturi77CallHijacker) - KoiVM,EazVM,AgileVM Patcher Por "Team Venturi77". (.NET)
   - [OrangeHeap Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap. (.NET)
   - [Devapor](https://github.com/miso-xyz/DeVapor) - Deobfuscator for Vapor. (.NET)
-  
   - [De4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker
-
   - [Unluac](https://fr.osdn.net/projects/sfnet_unluac/releases/) - Unluac is a decompiler for Lua 5.1. It runs on Lua chunks that have been compiled with the standard Lua compiler. (Original version)
   - [UnluacNET](https://github.com/Fireboyd78/UnluacNET) - A Lua 5.1 decompiler library written in C#. Based on the original Java version of "unluac" by tehtmi. 
-
   - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Python decompiler (.pyc file, python2.7)
-
   - UPX: for unpack with UPX type `upx -d YOURFILE`
+
 
 - ### Detecter
   - [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -116,6 +113,9 @@
   - [Jadx](https://github.com/skylot/jadx) - Dex to Java decompiler.
   - [JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
 
+
+- ### Mac
+  - [Readmem](https://github.com/gdbinit/readmem) - A small OS X/iOS userland util to dump processes memory.
 
 - ### Memory Hacking
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
@@ -145,7 +145,7 @@
   - [Peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents 
   - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. 
 
-- #### Strings
+ - ### Informations
   - [Stringcheese](https://github.com/MathisHammel/stringcheese) - StringCheese is a CTF tool to solve easy challenges automatically in many cases where a strings | grep is just not enough
   - strings
 
