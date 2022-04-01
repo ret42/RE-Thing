@@ -9,6 +9,7 @@
 - ### Android
   - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) 
   - [apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
+  - [apkSpy](https://github.com/LucasBaizer/apkSpy) - Fork of jadx with support for editing and recompiling Java source, Inspired by dnSpy, but for Android Java instead of .NET.
   - [Apktool](https://ibotpeaches.github.io/Apktool/) - A tool for reverse engineering Android apk files.
 
 
