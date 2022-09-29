@@ -1,8 +1,7 @@
 # List of tools
   - If you really needing help about building some projects, give me your discord on my youtube [channel](https://www.youtube.com/channel/UCZeI4eM-JxF0Aq72XcPMP5g).
-  - Just press `CTRL + F` and type keyword for be faster.
-  - Some of tools have lot of settings, so I didn't put all tools in all category.
-  - If you think I should change a program in a another category dm me on discord.
+  - Just press `CTRL + F` and type keyword to be faster.
+  - If you have any suggestions add me on discord.
 
 -----------------
 
