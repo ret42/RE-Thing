@@ -74,6 +74,7 @@
   - [De4Dot fixantide4dot mindsys](https://github.com/lol-49/Cracking-Thing/tree/main/De4Dot/de4dotfixantide4dot%20mindsys) - .NET application
   - [De4Dot DFoX](https://github.com/lol-49/Cracking-Thing/blob/main/De4Dot/de4dot_x86_x64_v3.1.41592.3405_Compiled_at_02_May_2020_By_DFoX.rar) - .NET application
   - dnlib - A cool library for deobfuscate in C#
+  - [.NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) - An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor (6.7 + supported)
   - [.NET Reactor 6.3 String](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings.
   - [.NET Reactor 6.7 Cflow](https://github.com/ret42/RE-Thing/tree/main/.NET%20Reactor%206.7/CFlow) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0.
   - [.NET Reactor 6.7 String](https://github.com/ret42/RE-Thing/tree/main/.NET%20Reactor%206.7/Strings) - Simple String Cleaner for .NET Reactor 6.7.0.0 (Use the Cflow before if there is Cflow Protection)
