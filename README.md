@@ -6,11 +6,24 @@
 
 -----------------
 
-- ### Android
+
+- ### Android / Java
   - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) 
   - [apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
   - [apkSpy](https://github.com/LucasBaizer/apkSpy) - Fork of jadx with support for editing and recompiling Java source, Inspired by dnSpy, but for Android Java instead of .NET.
   - [Apktool](https://ibotpeaches.github.io/Apktool/) - A tool for reverse engineering Android apk files.
+  - [BytecodeViewer](https://bytecodeviewer.com/) An advanced yet user friendly Java Reverse Engineering suite.
+  - [ClassyShark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer.
+  - [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
+  - [Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool.
+  - [enjarify](https://github.com/google/enjarify) - Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
+  - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler.
+  - [JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
+  - [JD-Core](https://github.com/java-decompiler/jd-core) - JD-Core is a JAVA decompiler written in JAVA.
+  - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin.
+  - [JD-Gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI.
+  - [Jeb](https://www.pnfsoftware.com/) - Android Dalvik, Intel x86, ARM, MIPS, RISC-V, S7 PLC, Java, WebAssembly & Ethereum Decompilers.
+  - UNZIP - For flutter app/apk etc.. you can unzip the file and get the code with this cli ``unzip application.apk``
 
 
 - ### Binary Analysis, Assembly explorer etc..
@@ -29,10 +42,11 @@
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
 
 
-- ### Extract data
-  - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool (Check out if files are embedded/appended)
-  - [Stringcheese](https://github.com/MathisHammel/stringcheese) - StringCheese is a CTF tool to solve easy challenges automatically in many cases where a strings | grep is just not enough
-  - strings
+- ### Crypto
+  - [Base64](https://www.base64decode.org/) - Base64 Decoder, decode also files.
+  - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife (Best web app tool for cryptos)
+  - [DCode](https://www.dcode.fr/) - More than 800 tools in web app (Crypto, Enigm, message decoder)
+  - [MD5Hashing](https://md5hashing.net/) - Decode MD5Hash/SHA etc..
 
 
 - ### Debugger
@@ -121,12 +135,13 @@
   - [EasyPredicateKiller](https://github.com/ZeroPlusBlog/EasyPredicateKiller) - Replacing and Calling ConfuserEx x86 Predicates
   - [eazdevirt](https://github.com/saneki/eazdevirt) - Devirtualizer for Eazfuscator.NET
   - [EazFixer](https://github.com/HoLLy-HaCKeR/EazFixer) - .NET deobfuscation tool for Eazfuscator.
-  - [FinGu-Cfex-Cleaner](https://github.com/CursedLand/FinGu-Cfex-Cleaner) - Removing/Cleaning FinGu Cfex Mutations
-  - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
+  - [FinGu-Cfex-Cleaner](https://github.com/CursedLand/FinGu-Cfex-Cleaner) - Removing/Cleaning FinGu Cfex Mutations.
+  - [Gdsdecomp](https://github.com/bruvzg/gdsdecomp) - Godot reverse engineering tools.
+  - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script.
   - [ILUnpacker](https://github.com/Michidu/ILUnpacker) - A simple unpacker for ILProtector. Supported versions <= 2.0.21.4.
   - [ILUnpacker](https://github.com/TobitoFatitoNulled/ILPUnpacker) - Different approach on unpacking ILProtector (Latest)
-  - [Krawk-Unpacker](https://github.com/cristlxrd/Krawk-Unpacker) - Krawk Unpacker
-  - [Netguard-Unpacker-Public](https://github.com/Tanasittx/NetGuard-Unpacker-Public) - Public NetGuard Deobfuscator
+  - [Krawk-Unpacker](https://github.com/cristlxrd/Krawk-Unpacker) - Krawk Unpacker.
+  - [Netguard-Unpacker-Public](https://github.com/Tanasittx/NetGuard-Unpacker-Public) - Public NetGuard Deobfuscator.
   - [NeonFuscatorDeobfuscator](https://github.com/Mighty00/NeonFuscatorDeobfuscator) - .NET Deobfuscator for Autori Obfuscator (NeonFuscator)
   - [NoFuserEx](https://github.com/CodeShark-Dev/NoFuserEx) - Free deobfuscator for ConfuserEx.
   - [OldRod](https://github.com/Washi1337/OldRod) - An automated KoiVM devirtualisation utility. (.NET)
@@ -154,6 +169,12 @@
   - [KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space !
   - [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies. (Build Version Here: [Build](https://www.mediafire.com/file/ilveqwn0pvknd21/MegaDumper.exe/file))
   - [Nemesis](https://github.com/not-matthias/Nemesis) - A customizable process dumper.
+
+
+- ### Extract data
+  - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool (Check out if files are embedded/appended)
+  - [Stringcheese](https://github.com/MathisHammel/stringcheese) - StringCheese is a CTF tool to solve easy challenges automatically in many cases where a strings | grep is just not enough
+  - strings
 
 
 - ### Fixer / Replacer / Simplifier / Remover / Decompressor
@@ -188,8 +209,10 @@ Fix assembly pe header and metadata errors
   - [UnSealer](https://github.com/CursedLand/UnSealer) - A Deobfuscator Base Which Uses Plugins And Multi-Platform Of Assembly Lib's | Its Easy To Build On Download Now Make Ur Own Plugin !                    
   - [RzyFixer](https://github.com/Riziebtw/RzyFixer) - A .NET Unpacker tool, with many features. Using dnlib assembly & cui for the design.
 
+  
 - ### Games
   - [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+  - [PokemonRETools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for building and disassembling Pokémon Red and Pokémon Crystal.
 
 
 - ### Hex Editor / Viewer
@@ -198,14 +221,10 @@ Fix assembly pe header and metadata errors
   - [HxD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
 
-- ### Java
-  - [Jadx](https://github.com/skylot/jadx) - Dex to Java decompiler.
-  - [JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
-
-
 - ### Mac
   - [Readmem](https://github.com/gdbinit/readmem) - A small OS X/iOS userland util to dump processes memory.
 
+  
 - ### Memory Hacking
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
   - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - A tool to extract a KeePass master password from memory.
@@ -241,6 +260,7 @@ Fix assembly pe header and metadata errors
   - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
   - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine 
   - [wasm-cheatengine](https://github.com/vakzz/wasm-cheat-engine) - A chrome extension that vakzz while playing pwnadventure, to allow for basic searching and freezing of values.
+
 
 - ### Web
   - [https://defuse.ca/](Defuse) - Website with lot free tools for RE/Crack Hash, and lot of on tools include in the website
