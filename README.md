@@ -235,9 +235,12 @@ Fix assembly pe header and metadata errors
   - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. 
 
 
-- #### WASM
+- ### WASM
   - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
   - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file.
   - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
   - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine 
   - [wasm-cheatengine](https://github.com/vakzz/wasm-cheat-engine) - A chrome extension that vakzz while playing pwnadventure, to allow for basic searching and freezing of values.
+
+- ### Web
+  - [https://defuse.ca/](Defuse) - Website with lot free tools for RE/Crack Hash, and lot of on tools include in the website
