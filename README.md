@@ -225,9 +225,10 @@ Fix assembly pe header and metadata errors
   - [Readmem](https://github.com/gdbinit/readmem) - A small OS X/iOS userland util to dump processes memory.
 
   
-- ### Memory Hacking
+- ### Memory Hacking/Scanner/Games etc...
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
   - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - A tool to extract a KeePass master password from memory.
+  - [PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games.
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
   - [ReClass](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
 
@@ -264,3 +265,9 @@ Fix assembly pe header and metadata errors
 
 - ### Web
   - [https://defuse.ca/](Defuse) - Website with lot free tools for RE/Crack Hash, and lot of on tools include in the website
+
+
+-----------------
+
+- ### DOCUMENTS
+  - SOON
