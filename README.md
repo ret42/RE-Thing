@@ -23,6 +23,7 @@
   - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin.
   - [JD-Gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI.
   - [Jeb](https://www.pnfsoftware.com/) - Android Dalvik, Intel x86, ARM, MIPS, RISC-V, S7 PLC, Java, WebAssembly & Ethereum Decompilers.
+  - [MTKClient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool.
   - UNZIP - For flutter app/apk etc.. you can unzip the file and get the code with this cli ``unzip application.apk``
 
 
@@ -37,6 +38,7 @@
   - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework.
   - [iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript.
   - [IDA](https://hex-rays.com/) - Powerful disassembler and a versatile debugger, and more.
+  - [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries.
   - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
   - [Relyze](https://www.relyze.com/) - Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software.
   - [SAE](https://github.com/wickyhu/simple-assembly-explorer) - Explore assembly, and deobf + PE strong name.
@@ -134,6 +136,7 @@
   - [Dotwall-deobfuscator](https://github.com/n017/Dotwall-deobfuscator) - A very simple deobfuscator for DotWall Obfuscator.
   - [EasyPredicateKiller](https://github.com/ZeroPlusBlog/EasyPredicateKiller) - Replacing and Calling ConfuserEx x86 Predicates
   - [eazdevirt](https://github.com/saneki/eazdevirt) - Devirtualizer for Eazfuscator.NET
+  - [EazyDevirt](https://github.com/puff/EazyDevirt) - A tool that automatically restores the original IL code from an assembly virtualized with Eazfuscator.NET
   - [EazFixer](https://github.com/HoLLy-HaCKeR/EazFixer) - .NET deobfuscation tool for Eazfuscator.
   - [FinGu-Cfex-Cleaner](https://github.com/CursedLand/FinGu-Cfex-Cleaner) - Removing/Cleaning FinGu Cfex Mutations.
   - [Gdsdecomp](https://github.com/bruvzg/gdsdecomp) - Godot reverse engineering tools.
@@ -212,7 +215,9 @@ Fix assembly pe header and metadata errors
   
 - ### Games
   - [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+  - [PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games.
   - [PokemonRETools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for building and disassembling Pokémon Red and Pokémon Crystal.
+  - [RetroReversing](https://www.retroreversing.com/) or [Github Repo](https://github.com/RetroReversing/retroReversing) - Awesome website for reverse engineering retro games.
 
 
 - ### Hex Editor / Viewer
@@ -240,6 +245,7 @@ Fix assembly pe header and metadata errors
 - ### .NET Tools
   - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
   - [dnSpy-ScyllaHideExtension](https://github.com/ComanGames/dnSpy-ScyllaHideExtension) - The small extension made by ComanGames to add anti-anti-debbuging support to dnSpy.
+  - [dnSpy.Extension.EasyRename](https://github.com/puff/dnSpy.Extension.EasyRename) - A simple dnSpy extension for easily renaming members.
   - [Find password](https://www.youtube.com/watch?v=054tBXK5SaU) - Find password from bool Equals with dnSpy.
   - [StringAnalyzer](https://github.com/AxDSan/dnSpy-StringsAnalyzer) - Plugin for DnSpy - Analyze through assemblies and display their strings.
   - [dotPeek](https://www.jetbrains.com/fr-fr/decompiler/) - .NET decompiler and assembly browser.
