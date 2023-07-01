@@ -258,7 +258,13 @@ Fix assembly pe header and metadata errors
 
 - ### PDF, MS, etc..
   - [Peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents 
-  - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. 
+  - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
+ 
+
+- ### Python
+  - [dis](https://docs.python.org/3/library/dis.html) - The built-in Python disassembler.
+  - [pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler.
+  - [xdis](https://github.com/rocky/python-xdis) - Python cross-version bytecode library and disassembler. 
 
 
 - ### WASM
