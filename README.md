@@ -1,5 +1,5 @@
 # List of tools
-  - If you really needing help about building some projects, give me your discord on my youtube [channel](https://www.youtube.com/channel/UCZeI4eM-JxF0Aq72XcPMP5g).
+  - If you really needing help about building some projects, add me on discord `hzhzhzhzhzhzhzhzhzhz`.
   - Just press `CTRL + F` and type keyword to be faster.
   - If you have any suggestions add me on discord.
   - Thanks to [NotPrab](https://github.com/NotPrab) for listing lot of Deobfuscator tools
@@ -230,12 +230,14 @@ Fix assembly pe header and metadata errors
   - [Readmem](https://github.com/gdbinit/readmem) - A small OS X/iOS userland util to dump processes memory.
 
   
-- ### Memory Hacking/Scanner/Games etc...
+- ### Memory Hacking/Scanner/Games/Analysis Process/Inject etc...
   - [CheatEngine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding. (Memory Hacking)
   - [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - A tool to extract a KeePass master password from memory.
   - [PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games.
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
   - [ReClass](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
+  - [Process Explorer](https://learn.microsoft.com/fr-fr/sysinternals/downloads/process-explorer) - The unique capabilities of Process Explorer make it useful for tracking down DLL-version problems or handle leaks, and provide insight into the way Windows and applications work.
+  - [Porcess Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) - Process Monitor includes powerful monitoring and filtering capabilities.
 
 
 - ### Network
@@ -277,6 +279,7 @@ Fix assembly pe header and metadata errors
 
 - ### Web
   - [https://defuse.ca/](Defuse) - Website with lot free tools for RE/Crack Hash, and lot of on tools include in the website
+  - [UnknownCheats](https://www.unknowncheats.me/forum/search.php) - Website with a lot of tutorial about how to use MemoryHacking and Reverse (Some topics are not about RE etc..)
 
 
 -----------------
