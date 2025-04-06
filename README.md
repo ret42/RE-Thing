@@ -129,6 +129,7 @@
   - [De4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker.
   - [Deobf-DotNetPathcer](https://github.com/CodeOfDark/Deobf-DotNetPatcher) - an basic deobfuscator for last version (at the moment) dotnetpatcher (v4.5.9.0) https://bitbucket.org/3DotDev/dotnet-patcher
   - [DNPDeobfuscator](https://github.com/XenocodeRCE/DNPDeobfuscator) - Open-source deobfuscator for dotnetpatcher (https://bitbucket.org/3dotdev/dotnet-patcher/src/)
+  - [dnSpy.Extension.HoLLy](https://github.com/holly-hacker/dnSpy.Extension.HoLLy) - A dnSpy extension to aid reversing of obfuscated assemblies
   - [DNGuard-InvalidMD](https://github.com/NSDCode/DNGuard-InvalidMD) - The easiest way to remove DNGuard Invalid-MD
   - [DotNetCompressorDecompressor](https://github.com/ribthegreat99OrN0P/DotNetCompressorDecompressor) - Decompresses files compressed with https://github.com/TotalTechGeek/DotNetCompressor
   - [DotRefiner-Deobfuscator](https://github.com/DarkObb/DotRefiner-Deobfuscator) - Static DotRefiner Deobfuscator.
@@ -270,10 +271,11 @@ Fix assembly pe header and metadata errors
 
 
 - ### WASM
-  - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
+  - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
+  - [dnSpy.Extension.WASM](https://github.com/holly-hacker/dnSpy.Extension.Wasm) - A dnSpy extension to add WebAssembly support
   - [JEBDecompiler](https://www.pnfsoftware.com/jeb/manual/webassembly/) - It works for every files, but it's a really good one for WASM file.
   - For download a wasm file, edit the extension in the url like if it's `index.html` put it as `index.wasm`.
-  - [Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine 
+  - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
   - [wasm-cheatengine](https://github.com/vakzz/wasm-cheat-engine) - A chrome extension that vakzz while playing pwnadventure, to allow for basic searching and freezing of values.
 
 
